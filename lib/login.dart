@@ -39,7 +39,7 @@ class _LoginState extends State<Login> {
                 controller: emailController,
                 decoration: const InputDecoration(
                     border: OutlineInputBorder(),
-                    labelText: 'User Name',
+                    labelText: 'User Namess',
                     hintText: 'Enter valid mail id as abc@gmail.com'),
               ),
             ),
