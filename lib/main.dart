@@ -1,3 +1,5 @@
+// @dart=2.9
+
 import 'dart:async';
 import 'dart:io';
 import 'package:firebase_core/firebase_core.dart';
@@ -29,7 +31,7 @@ class MyApp extends StatelessWidget {
     ]);
 
     return MaterialApp(
-      title: 'Splash Screen',
+      title: 'Splash Screenssss',
       home: MyHomePage(),
       debugShowCheckedModeBanner: false,
     );
